@@ -1,0 +1,1 @@
+==Conjugation== is the process of modifying verbs to indicate tense, mood, or aspect.

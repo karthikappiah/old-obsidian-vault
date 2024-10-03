@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": true,
+  "tabSize": 4,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

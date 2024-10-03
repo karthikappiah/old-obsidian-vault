@@ -1,0 +1,5 @@
+- ==Read phenomena== are problems that happen when concurrent transactions interfere with each other.
+  - [[Dirty Reads]] happen when a transaction can read another concurrent transaction's uncommitted changes.
+  - [[Non-Repeatable Reads]] happen when a query reads the same row twice in a transaction, but the query returns inconsistent results because another transaction committed changes to that row.
+  - [[Phantom Reads]] happen when a query reads some rows to satisfy the same condition twice in a transaction, but the query returns inconsistent results because another transaction committed changes to those rows.
+  - [[Lost Updates]]

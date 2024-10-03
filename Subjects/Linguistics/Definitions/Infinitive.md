@@ -1,0 +1,1 @@
+An ==infinitive== is an [[Conjugation|unconjugated]] verb.
